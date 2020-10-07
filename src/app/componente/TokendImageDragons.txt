@@ -1,0 +1,891 @@
+{
+    "artists": {
+        "href": "https://api.spotify.com/v1/search?query=Imagine+Dragons&type=artist&market=US&offset=5&limit=10",
+        "items": [],
+        "limit": 10,
+        "next": null,
+        "offset": 5,
+        "previous": "https://api.spotify.com/v1/search?query=Imagine+Dragons&type=artist&market=US&offset=0&limit=10",
+        "total": 1
+    },
+    "tracks": {
+        "href": "https://api.spotify.com/v1/search?query=Imagine+Dragons&type=track&market=US&offset=5&limit=10",
+        "items": [
+            {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/53XhwfbYqKCa1cC15pYq2q",
+                            "id": "53XhwfbYqKCa1cC15pYq2q",
+                            "name": "Imagine Dragons",
+                            "type": "artist",
+                            "uri": "spotify:artist:53XhwfbYqKCa1cC15pYq2q"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/3JfSxDfmwS5OeHPwLSkrfr"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/3JfSxDfmwS5OeHPwLSkrfr",
+                    "id": "3JfSxDfmwS5OeHPwLSkrfr",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273da6f73a25f4c79d0e6b4a8bd",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02da6f73a25f4c79d0e6b4a8bd",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851da6f73a25f4c79d0e6b4a8bd",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Origins (Deluxe)",
+                    "release_date": "2018-11-09",
+                    "release_date_precision": "day",
+                    "total_tracks": 15,
+                    "type": "album",
+                    "uri": "spotify:album:3JfSxDfmwS5OeHPwLSkrfr"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/53XhwfbYqKCa1cC15pYq2q",
+                        "id": "53XhwfbYqKCa1cC15pYq2q",
+                        "name": "Imagine Dragons",
+                        "type": "artist",
+                        "uri": "spotify:artist:53XhwfbYqKCa1cC15pYq2q"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 260773,
+                "explicit": false,
+                "external_ids": {
+                    "isrc": "USUM71816161"
+                },
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/2RSHsoi04658QL5xgQVov3"
+                },
+                "href": "https://api.spotify.com/v1/tracks/2RSHsoi04658QL5xgQVov3",
+                "id": "2RSHsoi04658QL5xgQVov3",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Bad Liar",
+                "popularity": 82,
+                "preview_url": null,
+                "track_number": 5,
+                "type": "track",
+                "uri": "spotify:track:2RSHsoi04658QL5xgQVov3"
+            },
+            {
+                "album": {
+                    "album_type": "single",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/55Aa2cqylxrFIXC767Z865",
+                            "id": "55Aa2cqylxrFIXC767Z865",
+                            "name": "Lil Wayne",
+                            "type": "artist",
+                            "uri": "spotify:artist:55Aa2cqylxrFIXC767Z865"
+                        },
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/137W8MRPWKqSmrBGDBFSop",
+                            "id": "137W8MRPWKqSmrBGDBFSop",
+                            "name": "Wiz Khalifa",
+                            "type": "artist",
+                            "uri": "spotify:artist:137W8MRPWKqSmrBGDBFSop"
+                        },
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/53XhwfbYqKCa1cC15pYq2q",
+                            "id": "53XhwfbYqKCa1cC15pYq2q",
+                            "name": "Imagine Dragons",
+                            "type": "artist",
+                            "uri": "spotify:artist:53XhwfbYqKCa1cC15pYq2q"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/704GHNtZhEe9TBgleCNNGv"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/704GHNtZhEe9TBgleCNNGv",
+                    "id": "704GHNtZhEe9TBgleCNNGv",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2737d8dfcfd507069d7f2062caf",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e027d8dfcfd507069d7f2062caf",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048517d8dfcfd507069d7f2062caf",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Sucker for Pain (with Logic & Ty Dolla $ign feat. X Ambassadors)",
+                    "release_date": "2016-06-24",
+                    "release_date_precision": "day",
+                    "total_tracks": 1,
+                    "type": "album",
+                    "uri": "spotify:album:704GHNtZhEe9TBgleCNNGv"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/55Aa2cqylxrFIXC767Z865",
+                        "id": "55Aa2cqylxrFIXC767Z865",
+                        "name": "Lil Wayne",
+                        "type": "artist",
+                        "uri": "spotify:artist:55Aa2cqylxrFIXC767Z865"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/137W8MRPWKqSmrBGDBFSop",
+                        "id": "137W8MRPWKqSmrBGDBFSop",
+                        "name": "Wiz Khalifa",
+                        "type": "artist",
+                        "uri": "spotify:artist:137W8MRPWKqSmrBGDBFSop"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/53XhwfbYqKCa1cC15pYq2q",
+                        "id": "53XhwfbYqKCa1cC15pYq2q",
+                        "name": "Imagine Dragons",
+                        "type": "artist",
+                        "uri": "spotify:artist:53XhwfbYqKCa1cC15pYq2q"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/3NPpFNZtSTHheNBaWC82rB",
+                        "id": "3NPpFNZtSTHheNBaWC82rB",
+                        "name": "X Ambassadors",
+                        "type": "artist",
+                        "uri": "spotify:artist:3NPpFNZtSTHheNBaWC82rB"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/4xRYI6VqpkE3UwrDrAZL8L",
+                        "id": "4xRYI6VqpkE3UwrDrAZL8L",
+                        "name": "Logic",
+                        "type": "artist",
+                        "uri": "spotify:artist:4xRYI6VqpkE3UwrDrAZL8L"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/7c0XG5cIJTrrAgEC3ULPiq",
+                        "id": "7c0XG5cIJTrrAgEC3ULPiq",
+                        "name": "Ty Dolla $ign",
+                        "type": "artist",
+                        "uri": "spotify:artist:7c0XG5cIJTrrAgEC3ULPiq"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 243490,
+                "explicit": true,
+                "external_ids": {
+                    "isrc": "USAT21601893"
+                },
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/4dASQiO1Eoo3RJvt74FtXB"
+                },
+                "href": "https://api.spotify.com/v1/tracks/4dASQiO1Eoo3RJvt74FtXB",
+                "id": "4dASQiO1Eoo3RJvt74FtXB",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Sucker for Pain (with Wiz Khalifa, Imagine Dragons, Logic & Ty Dolla $ign feat. X Ambassadors)",
+                "popularity": 77,
+                "preview_url": "https://p.scdn.co/mp3-preview/96f9689e58c4d6188cc269c0c2089036c3817a2e?cid=d6b55734aa3f4b49af89ae8023b6c69e",
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:4dASQiO1Eoo3RJvt74FtXB"
+            },
+            {
+                "album": {
+                    "album_type": "single",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/6Ad91Jof8Niiw0lGLLi3NW",
+                            "id": "6Ad91Jof8Niiw0lGLLi3NW",
+                            "name": "YUNGBLUD",
+                            "type": "artist",
+                            "uri": "spotify:artist:6Ad91Jof8Niiw0lGLLi3NW"
+                        },
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/3k3gbUT7bF0jYmFmAKBQtU"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/3k3gbUT7bF0jYmFmAKBQtU",
+                            "id": "3k3gbUT7bF0jYmFmAKBQtU",
+                            "name": "Dan Reynolds",
+                            "type": "artist",
+                            "uri": "spotify:artist:3k3gbUT7bF0jYmFmAKBQtU"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/6Qdnzl2AlEZDIeU3AaLnNM"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/6Qdnzl2AlEZDIeU3AaLnNM",
+                    "id": "6Qdnzl2AlEZDIeU3AaLnNM",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2731cc2c1c72132a2e4def49a8d",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e021cc2c1c72132a2e4def49a8d",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048511cc2c1c72132a2e4def49a8d",
+                            "width": 64
+                        }
+                    ],
+                    "name": "original me (feat. dan reynolds of imagine dragons)",
+                    "release_date": "2019-10-09",
+                    "release_date_precision": "day",
+                    "total_tracks": 1,
+                    "type": "album",
+                    "uri": "spotify:album:6Qdnzl2AlEZDIeU3AaLnNM"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6Ad91Jof8Niiw0lGLLi3NW",
+                        "id": "6Ad91Jof8Niiw0lGLLi3NW",
+                        "name": "YUNGBLUD",
+                        "type": "artist",
+                        "uri": "spotify:artist:6Ad91Jof8Niiw0lGLLi3NW"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/3k3gbUT7bF0jYmFmAKBQtU"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/3k3gbUT7bF0jYmFmAKBQtU",
+                        "id": "3k3gbUT7bF0jYmFmAKBQtU",
+                        "name": "Dan Reynolds",
+                        "type": "artist",
+                        "uri": "spotify:artist:3k3gbUT7bF0jYmFmAKBQtU"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 205320,
+                "explicit": true,
+                "external_ids": {
+                    "isrc": "USUG11903207"
+                },
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/4KzOYxD4qIkUtZV9ZYakGu"
+                },
+                "href": "https://api.spotify.com/v1/tracks/4KzOYxD4qIkUtZV9ZYakGu",
+                "id": "4KzOYxD4qIkUtZV9ZYakGu",
+                "is_local": false,
+                "is_playable": true,
+                "name": "original me (feat. dan reynolds of imagine dragons)",
+                "popularity": 64,
+                "preview_url": null,
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:4KzOYxD4qIkUtZV9ZYakGu"
+            },
+            {
+                "album": {
+                    "album_type": "single",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/7xN5TloUu8nvkXNLMCG3mP"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/7xN5TloUu8nvkXNLMCG3mP",
+                            "id": "7xN5TloUu8nvkXNLMCG3mP",
+                            "name": "Redefined",
+                            "type": "artist",
+                            "uri": "spotify:artist:7xN5TloUu8nvkXNLMCG3mP"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/0Zshl2dRFykRLvKK9lhFYk"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/0Zshl2dRFykRLvKK9lhFYk",
+                    "id": "0Zshl2dRFykRLvKK9lhFYk",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2734d2a0203bd399c2ea1abfc86",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e024d2a0203bd399c2ea1abfc86",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048514d2a0203bd399c2ea1abfc86",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Imagine Dragons Medley: Demons / Radioactive / It's Time / On Top of the World",
+                    "release_date": "2015-08-26",
+                    "release_date_precision": "day",
+                    "total_tracks": 1,
+                    "type": "album",
+                    "uri": "spotify:album:0Zshl2dRFykRLvKK9lhFYk"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/7xN5TloUu8nvkXNLMCG3mP"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/7xN5TloUu8nvkXNLMCG3mP",
+                        "id": "7xN5TloUu8nvkXNLMCG3mP",
+                        "name": "Redefined",
+                        "type": "artist",
+                        "uri": "spotify:artist:7xN5TloUu8nvkXNLMCG3mP"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 379000,
+                "explicit": false,
+                "external_ids": {
+                    "isrc": "ushm21519087"
+                },
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/4XdgJefkE3MVJXAp5ocMFZ"
+                },
+                "href": "https://api.spotify.com/v1/tracks/4XdgJefkE3MVJXAp5ocMFZ",
+                "id": "4XdgJefkE3MVJXAp5ocMFZ",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Imagine Dragons Medley: Demons / Radioactive / It's Time /On Top of the World",
+                "popularity": 42,
+                "preview_url": "https://p.scdn.co/mp3-preview/29dfd64dfcbb2438dd37a8a4b1da585c2816dcc1?cid=d6b55734aa3f4b49af89ae8023b6c69e",
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:4XdgJefkE3MVJXAp5ocMFZ"
+            },
+            {
+                "album": {
+                    "album_type": "single",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/7EIbKyiLnEJ1Y074UIUyZJ"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/7EIbKyiLnEJ1Y074UIUyZJ",
+                            "id": "7EIbKyiLnEJ1Y074UIUyZJ",
+                            "name": "Peter Hollens",
+                            "type": "artist",
+                            "uri": "spotify:artist:7EIbKyiLnEJ1Y074UIUyZJ"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/4Vuhy9ieO2FS3HZjUyfiFN"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/4Vuhy9ieO2FS3HZjUyfiFN",
+                    "id": "4Vuhy9ieO2FS3HZjUyfiFN",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2737b8b0e0f14e416d2c1ce5c15",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e027b8b0e0f14e416d2c1ce5c15",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048517b8b0e0f14e416d2c1ce5c15",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Imagine Dragons Medley: Radioactive / Believer / Gold / It's Time /Demons / Shots / On Top of the World / Natural (A Cappella)",
+                    "release_date": "2019-06-07",
+                    "release_date_precision": "day",
+                    "total_tracks": 1,
+                    "type": "album",
+                    "uri": "spotify:album:4Vuhy9ieO2FS3HZjUyfiFN"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/7EIbKyiLnEJ1Y074UIUyZJ"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/7EIbKyiLnEJ1Y074UIUyZJ",
+                        "id": "7EIbKyiLnEJ1Y074UIUyZJ",
+                        "name": "Peter Hollens",
+                        "type": "artist",
+                        "uri": "spotify:artist:7EIbKyiLnEJ1Y074UIUyZJ"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5l6RNqtZu9abHKcHrt5wRK"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5l6RNqtZu9abHKcHrt5wRK",
+                        "id": "5l6RNqtZu9abHKcHrt5wRK",
+                        "name": "Chase Holfelder",
+                        "type": "artist",
+                        "uri": "spotify:artist:5l6RNqtZu9abHKcHrt5wRK"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 198751,
+                "explicit": false,
+                "external_ids": {
+                    "isrc": "QZGWW1917555"
+                },
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/0AAn3BNW7H6ZatN54IouJ9"
+                },
+                "href": "https://api.spotify.com/v1/tracks/0AAn3BNW7H6ZatN54IouJ9",
+                "id": "0AAn3BNW7H6ZatN54IouJ9",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Imagine Dragons Medley: Radioactive / Believer / Gold / It's Time /Demons / Shots / On Top of the World / Natural - A Cappella",
+                "popularity": 36,
+                "preview_url": "https://p.scdn.co/mp3-preview/6e3051b291b1acf874bbcf5061257ab52a0f4cad?cid=d6b55734aa3f4b49af89ae8023b6c69e",
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:0AAn3BNW7H6ZatN54IouJ9"
+            },
+            {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/1vCWHaC5f2uS3yhpwWbIA6",
+                            "id": "1vCWHaC5f2uS3yhpwWbIA6",
+                            "name": "Avicii",
+                            "type": "artist",
+                            "uri": "spotify:artist:1vCWHaC5f2uS3yhpwWbIA6"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/6Ad1E9vl75ZB3Ir87zwXIJ"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/6Ad1E9vl75ZB3Ir87zwXIJ",
+                    "id": "6Ad1E9vl75ZB3Ir87zwXIJ",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273660ee24281a547103f466ff5",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02660ee24281a547103f466ff5",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851660ee24281a547103f466ff5",
+                            "width": 64
+                        }
+                    ],
+                    "name": "TIM",
+                    "release_date": "2019-06-06",
+                    "release_date_precision": "day",
+                    "total_tracks": 12,
+                    "type": "album",
+                    "uri": "spotify:album:6Ad1E9vl75ZB3Ir87zwXIJ"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1vCWHaC5f2uS3yhpwWbIA6",
+                        "id": "1vCWHaC5f2uS3yhpwWbIA6",
+                        "name": "Avicii",
+                        "type": "artist",
+                        "uri": "spotify:artist:1vCWHaC5f2uS3yhpwWbIA6"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/53XhwfbYqKCa1cC15pYq2q",
+                        "id": "53XhwfbYqKCa1cC15pYq2q",
+                        "name": "Imagine Dragons",
+                        "type": "artist",
+                        "uri": "spotify:artist:53XhwfbYqKCa1cC15pYq2q"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 254165,
+                "explicit": false,
+                "external_ids": {
+                    "isrc": "SE5R71900210"
+                },
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/6kXNnS7JJz0nAv4XEwEmQJ"
+                },
+                "href": "https://api.spotify.com/v1/tracks/6kXNnS7JJz0nAv4XEwEmQJ",
+                "id": "6kXNnS7JJz0nAv4XEwEmQJ",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Heart Upon My Sleeve (feat. Imagine Dragons)",
+                "popularity": 62,
+                "preview_url": null,
+                "track_number": 10,
+                "type": "track",
+                "uri": "spotify:track:6kXNnS7JJz0nAv4XEwEmQJ"
+            },
+            {
+                "album": {
+                    "album_type": "single",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/5OHa7dQqKFFMLtLWhZnesR"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/5OHa7dQqKFFMLtLWhZnesR",
+                            "id": "5OHa7dQqKFFMLtLWhZnesR",
+                            "name": "Vocal Chaos",
+                            "type": "artist",
+                            "uri": "spotify:artist:5OHa7dQqKFFMLtLWhZnesR"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/4vuTRFMjkLjyEjIbSj5h2C"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/4vuTRFMjkLjyEjIbSj5h2C",
+                    "id": "4vuTRFMjkLjyEjIbSj5h2C",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273b5a83640caf86782f3f3dc00",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02b5a83640caf86782f3f3dc00",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851b5a83640caf86782f3f3dc00",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Chaos Theory",
+                    "release_date": "2014-06-06",
+                    "release_date_precision": "day",
+                    "total_tracks": 6,
+                    "type": "album",
+                    "uri": "spotify:album:4vuTRFMjkLjyEjIbSj5h2C"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5OHa7dQqKFFMLtLWhZnesR"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5OHa7dQqKFFMLtLWhZnesR",
+                        "id": "5OHa7dQqKFFMLtLWhZnesR",
+                        "name": "Vocal Chaos",
+                        "type": "artist",
+                        "uri": "spotify:artist:5OHa7dQqKFFMLtLWhZnesR"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 218866,
+                "explicit": false,
+                "external_ids": {
+                    "isrc": "ushm21467289"
+                },
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/04cJJ8YaVl2RU97quGKjud"
+                },
+                "href": "https://api.spotify.com/v1/tracks/04cJJ8YaVl2RU97quGKjud",
+                "id": "04cJJ8YaVl2RU97quGKjud",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Imagine Dragons Mashup",
+                "popularity": 20,
+                "preview_url": "https://p.scdn.co/mp3-preview/d3ad35041c3ddc54853dd092bdee5d6855a10fe6?cid=d6b55734aa3f4b49af89ae8023b6c69e",
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:04cJJ8YaVl2RU97quGKjud"
+            },
+            {
+                "album": {
+                    "album_type": "compilation",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+                            "id": "0LyfQWJT6nXafLPZqxe9Of",
+                            "name": "Various Artists",
+                            "type": "artist",
+                            "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/220GxEXwMAOoBGiL7yWV4Q"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/220GxEXwMAOoBGiL7yWV4Q",
+                    "id": "220GxEXwMAOoBGiL7yWV4Q",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2735c67346c5a2a5ab7c713b6d7",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e025c67346c5a2a5ab7c713b6d7",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048515c67346c5a2a5ab7c713b6d7",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Ready2go",
+                    "release_date": "2020-09-25",
+                    "release_date_precision": "day",
+                    "total_tracks": 54,
+                    "type": "album",
+                    "uri": "spotify:album:220GxEXwMAOoBGiL7yWV4Q"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/53XhwfbYqKCa1cC15pYq2q",
+                        "id": "53XhwfbYqKCa1cC15pYq2q",
+                        "name": "Imagine Dragons",
+                        "type": "artist",
+                        "uri": "spotify:artist:53XhwfbYqKCa1cC15pYq2q"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 260293,
+                "explicit": false,
+                "external_ids": {
+                    "isrc": "USUM71816161"
+                },
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/2QmDheHiOMkYdDBci0EtbZ"
+                },
+                "href": "https://api.spotify.com/v1/tracks/2QmDheHiOMkYdDBci0EtbZ",
+                "id": "2QmDheHiOMkYdDBci0EtbZ",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Bad Liar",
+                "popularity": 32,
+                "preview_url": null,
+                "track_number": 17,
+                "type": "track",
+                "uri": "spotify:track:2QmDheHiOMkYdDBci0EtbZ"
+            },
+            {
+                "album": {
+                    "album_type": "compilation",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+                            "id": "0LyfQWJT6nXafLPZqxe9Of",
+                            "name": "Various Artists",
+                            "type": "artist",
+                            "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/7kcbYCvOoFZs9FRPDWVrey"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/7kcbYCvOoFZs9FRPDWVrey",
+                    "id": "7kcbYCvOoFZs9FRPDWVrey",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b27370ede58402a30a0717aa3b83",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e0270ede58402a30a0717aa3b83",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d0000485170ede58402a30a0717aa3b83",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Runtastic - Power Workout (Vol. 1)",
+                    "release_date": "2015-11-20",
+                    "release_date_precision": "day",
+                    "total_tracks": 28,
+                    "type": "album",
+                    "uri": "spotify:album:7kcbYCvOoFZs9FRPDWVrey"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/53XhwfbYqKCa1cC15pYq2q",
+                        "id": "53XhwfbYqKCa1cC15pYq2q",
+                        "name": "Imagine Dragons",
+                        "type": "artist",
+                        "uri": "spotify:artist:53XhwfbYqKCa1cC15pYq2q"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 169320,
+                "explicit": false,
+                "external_ids": {
+                    "isrc": "USUM71414163"
+                },
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/5EyH2MbmwWmKNsSCuecfsk"
+                },
+                "href": "https://api.spotify.com/v1/tracks/5EyH2MbmwWmKNsSCuecfsk",
+                "id": "5EyH2MbmwWmKNsSCuecfsk",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Warriors",
+                "popularity": 19,
+                "preview_url": null,
+                "track_number": 8,
+                "type": "track",
+                "uri": "spotify:track:5EyH2MbmwWmKNsSCuecfsk"
+            },
+            {
+                "album": {
+                    "album_type": "compilation",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+                            "id": "0LyfQWJT6nXafLPZqxe9Of",
+                            "name": "Various Artists",
+                            "type": "artist",
+                            "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/0UVExIe8OBcSyEoJt7aKQQ"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/0UVExIe8OBcSyEoJt7aKQQ",
+                    "id": "0UVExIe8OBcSyEoJt7aKQQ",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273701fb221b8821508772e0dcd",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02701fb221b8821508772e0dcd",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851701fb221b8821508772e0dcd",
+                            "width": 64
+                        }
+                    ],
+                    "name": "NYE Party 2021",
+                    "release_date": "2020-09-25",
+                    "release_date_precision": "day",
+                    "total_tracks": 33,
+                    "type": "album",
+                    "uri": "spotify:album:0UVExIe8OBcSyEoJt7aKQQ"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/53XhwfbYqKCa1cC15pYq2q",
+                        "id": "53XhwfbYqKCa1cC15pYq2q",
+                        "name": "Imagine Dragons",
+                        "type": "artist",
+                        "uri": "spotify:artist:53XhwfbYqKCa1cC15pYq2q"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 192800,
+                "explicit": false,
+                "external_ids": {
+                    "isrc": "USUM71201073"
+                },
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/21OWIqFtIXh5zrVel9n6Hu"
+                },
+                "href": "https://api.spotify.com/v1/tracks/21OWIqFtIXh5zrVel9n6Hu",
+                "id": "21OWIqFtIXh5zrVel9n6Hu",
+                "is_local": false,
+                "is_playable": true,
+                "name": "On Top Of The World",
+                "popularity": 24,
+                "preview_url": null,
+                "track_number": 30,
+                "type": "track",
+                "uri": "spotify:track:21OWIqFtIXh5zrVel9n6Hu"
+            }
+        ],
+        "limit": 10,
+        "next": "https://api.spotify.com/v1/search?query=Imagine+Dragons&type=track&market=US&offset=15&limit=10",
+        "offset": 5,
+        "previous": "https://api.spotify.com/v1/search?query=Imagine+Dragons&type=track&market=US&offset=0&limit=10",
+        "total": 1816
+    }
+}
