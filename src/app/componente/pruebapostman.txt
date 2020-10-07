@@ -1,0 +1,6 @@
+{
+    "access_token": "BQCuaWNxIlKpqc7oTlmiiL4pIeSuPfWFDVQN9h8npa3icMFiF4tR_e2Wlx8zu6-cBNWgYKV9msvBGrd_sa8",
+    "token_type": "Bearer",
+    "expires_in": 3600,
+    "scope": ""
+}
