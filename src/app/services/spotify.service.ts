@@ -10,13 +10,12 @@ constructor(private http: HttpClient){
    }
           getNewReleases() { 
             const headers = new HttpHeaders({
-              'Authorization': 'Bearer BQAbZfFB0iqAs5D0blKpWRS50hXzfDZFMN2phhO2tnYjce3BSipjWUlpVoTsiGtlTtg5x5QWnbjzUGTJacg'
+              'Authorization': 'Bearer BQCLnWo-1KgRCb3HD24r9UveScfxsSm5nw_JXbZpwAkCkV-W1XlCi04UqrIsBQ1CTg5rJ12OLGY8OdcB374'
             });
 
-this.http.get('https://api.spotify.com/v1/search?q=Imagine%20Dragons&type=track%2Cartist&market=US&limit=10&offset=5', { headers})
-            .subscribe( rolas => {
-              console.log(rolas);
-            })
+return this.http.get('https://api.spotify.com/v1/browse/new-releases', { headers});
+ 
+            }
     }
 
-}
+
