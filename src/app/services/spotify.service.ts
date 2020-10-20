@@ -10,7 +10,7 @@ constructor(private http: HttpClient){
    }
           getNewReleases() { 
             const headers = new HttpHeaders({
-              'Authorization': 'Bearer BQCLnWo-1KgRCb3HD24r9UveScfxsSm5nw_JXbZpwAkCkV-W1XlCi04UqrIsBQ1CTg5rJ12OLGY8OdcB374'
+              'Authorization': 'BQDgDF0xaEcR7aPCv5wYyKrlNahsn6wtfoxkRfkBmpPegeeScK8mTkHl2w7VRaaEr_Nmdrp2sr56q6mhUr0'
             });
 
 return this.http.get('https://api.spotify.com/v1/browse/new-releases', { headers});
