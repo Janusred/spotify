@@ -8,6 +8,7 @@ import { map } from 'rxjs/operators';
 })
 export class SpotifyService {
 
+<<<<<<< HEAD
   constructor(private http: HttpClient) { 
     console.log('Spotify Service Created');
   }
@@ -27,6 +28,15 @@ export class SpotifyService {
     return this.getQuery('browse/new-releases')
                 .pipe( map( data => data['albums'].items ));
   }
+=======
+constructor(private http: HttpClient){
+    console.log('Januslds');
+   }
+          getNewReleases() { 
+            const headers = new HttpHeaders({
+              'Authorization': 'BQDgDF0xaEcR7aPCv5wYyKrlNahsn6wtfoxkRfkBmpPegeeScK8mTkHl2w7VRaaEr_Nmdrp2sr56q6mhUr0'
+            });
+>>>>>>> a7249e848859f1f129aecc183f5eb9fd40ff3cb7
 
   getArtists( termino:string ){
     return this.getQuery(`search?q=${ termino }&type=artist&limit=10`)
